@@ -1,4 +1,4 @@
-package 완전탐색.골드;
+package DP;
 
 import java.util.Scanner;
 

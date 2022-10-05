@@ -1,4 +1,4 @@
-package 시뮬레이션.골드;
+package 시뮬레이션;
 
 import java.util.ArrayList;
 import java.util.HashMap;

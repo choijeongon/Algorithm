@@ -1,4 +1,4 @@
-package 완전탐색.골드;
+package 완전탐색;
 
 import java.util.LinkedList;
 import java.util.Queue;
