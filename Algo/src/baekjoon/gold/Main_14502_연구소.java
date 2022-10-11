@@ -1,4 +1,4 @@
-package 시뮬레이션;
+package baekjoon.gold;
 
 import java.util.ArrayList;
 import java.util.HashMap;

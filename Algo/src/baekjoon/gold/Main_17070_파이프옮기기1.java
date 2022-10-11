@@ -1,4 +1,4 @@
-package 완전탐색;
+package baekjoon.gold;
 
 import java.util.LinkedList;
 import java.util.Queue;
